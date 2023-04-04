@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+public/images/.DS_Store
+public/images/cards/.DS_Store
+public/.DS_Store
